@@ -5,7 +5,7 @@
 
 Projeto construído no curso Explorer da Rocketseat. Uma pagina criada consumindo a API do Github para selecionar os seus perfis favoritos.
 
-![preview](./.github/preview.png)
+![preview](./.github/preview.PNG)
 
 
 
